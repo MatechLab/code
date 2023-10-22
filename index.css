@@ -116,7 +116,7 @@ border-radius:8px;
 padding: 52px, 0.47px, 52.01px, 0px
 
 }
-header{
+.head{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -149,7 +149,6 @@ a{
     margin-top: -50px;
 }
 .clients{
-    //styleName: Heading/Headline 2;
 font-family: Inter;
 font-size: 36px;
 font-weight: 600;
@@ -160,7 +159,7 @@ text-align: center;
 
 }
 .clients2{
-    //styleName: Body/Regular/Body 2;
+   
 font-family: Inter;
 font-size: 16px;
 font-weight: 400;
