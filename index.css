@@ -227,8 +227,9 @@ text-align: center;
 } */
 .helpimages{
     display: flex;
-    align-items: center;
-    gap: 25px;
+   
+    gap:20px;
+    position: relative;
 
 }
 .helptext{
@@ -285,8 +286,12 @@ text-align: center;
     display:flex;
     gap: 80px;
     text-align: justify;
+   
     
     
+}
+.creates{
+    position: relative;
 }
 .pell{
     background-color: neutral silver;
@@ -326,13 +331,17 @@ text-align: center;
     }
 
 .stream{
-        background: rgba(245, 247, 250, 1);
-        width: 300px;
+        background-color: beige;
+        font-weight: 200;
+        width: 220px;
         height: 150px;
         padding: 16px;
         gap: 10px;
-        border-radius: 8px;
-        margin-left: 20px;
+        border-radius: 12px;
+        margin-top:-120px;
+        position:absolute;
+        margin-left: 30px;
+       
         
       }
 .rd{
